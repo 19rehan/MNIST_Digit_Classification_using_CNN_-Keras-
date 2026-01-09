@@ -36,7 +36,6 @@ The goal is to classify handwritten digits (0-9) from the MNIST Dataset. By impl
 * **Library:** TensorFlow / Keras
 * **Environment:** Google Colab / Jupyter Notebook
 * **Visualization:** Matplotlib / NumPy
-
 ---
 
 ## 🚀 Future Goals
