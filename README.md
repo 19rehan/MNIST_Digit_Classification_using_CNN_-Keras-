@@ -1,5 +1,3 @@
-# MNIST_Digit_Classification_using_CNN_-Keras-
-
 # 🔢 MNIST Digit Classification using CNN (Keras)
 
 This project marks my transition from **Beginner (Tabular Data/ANN)** to **Intermediate (Image Data/CNN)** levels in Deep Learning.
