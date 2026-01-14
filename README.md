@@ -14,7 +14,7 @@ The goal is to classify handwritten digits (0-9) from the MNIST Dataset. By impl
 * **One-Hot Encoding:** Used `to_categorical` to transform labels into 10-class probability vectors.
 
 ### 2. Model Layers (The Blueprint)
-* **Conv2D Layer:** The "Eyes" of the model; 32 filters to detect edges and curves
+* **Conv2D Layer:** The "Eyes" of the model; 32 filters to detect edges and curves.
 * **MaxPooling2D:** Downsampling to keep only the most important features and reduce computation.
 * **Flatten:** The bridge that converts 2D feature maps into a 1D vector for the Dense layers.
 * **Dense (Hidden):** 64 neurons to understand complex relationships between extracted features.
