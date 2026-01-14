@@ -22,7 +22,7 @@ The goal is to classify handwritten digits (0-9) from the MNIST Dataset. By impl
 
 ---
 
-## 📊 Performance Summary
+## 📊 Performance Summary.
 | Metric | Value | Logic |
 | :--- | :--- | :--- |
 | **Test Accuracy** | **98.34%** | Highly reliable for handwritten text. |
