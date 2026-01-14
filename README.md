@@ -6,7 +6,7 @@ The goal is to classify handwritten digits (0-9) from the MNIST Dataset. By impl
 
 ---
 
-## 🏗️ The Logic & Architecture
+## 🏗️ The Logic & Architecture.
 
 ### 1. Preprocessing (Data Cleaning)
 * **Normalization:** Scaled pixel values from `[0, 255]` to `[0, 1]` for faster convergence.
