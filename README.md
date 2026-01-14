@@ -2,7 +2,7 @@
 
 
 ## 📝 Project Overview
-The goal is to classify handwritten digits (0-9) from the MNIST Dataset. By implementing a **Convolutional Neural Network (CNN)**, the model learns to recognize spatial patterns, achieving an accuracy of **98.34%**.
+The goal is to classify handwritten digits (0-9) from the MNIST Dataset. By implementing a **Convolutional Neural Network (CNN)**, the model learns to recognize spatial patterns, achieving an accuracy of **98.34%**
 
 ---
 
